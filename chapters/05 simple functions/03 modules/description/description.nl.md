@@ -68,6 +68,9 @@ referentie):
 
 -   *`log10()` heeft één numerieke parameter en geeft als return value het logaritme met 10 als basis van de parameter. (leerstof wiskunde 3de graad)*
 
+-   *`ceil()` heeft één numerieke parameter en geeft als return value de kleinste integer die groter of gelijk is aan de parameter. Met andere woorden rondt deze functie de waarde van de parameter naar boven af tot op een geheel getal.*
+
+-   *`floor()` heeft één numerieke parameter en geeft als return value de grootste integer die kleiner is dan de parameter. Met andere woorden rondt deze functie de waarde van de parameter naar beneden af tot op een geheel getal.*
 
 Bijvoorbeeld:
 
